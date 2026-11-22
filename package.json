@@ -1,0 +1,12 @@
+{
+  "name": "nft-gift-image",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Simple Telegram NFT gift image preview and download website",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
